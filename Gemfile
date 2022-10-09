@@ -18,6 +18,10 @@ gem "puma", "~> 5.0"
 #faker data
 gem "faker", "~> 2.3"
 
+# serializer
+gem 'active_model_serializers'
+
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
