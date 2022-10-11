@@ -1,24 +1,19 @@
-# README
+## Superheroes Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Author : Clement Njeru © 2022
 
-Things you may want to cover:
+ ## Project Description
+This is a Superheroes Rails Backend Application that demonstrates the associations between three models: hero, power and hero_power. These models were hence first created which are tables of data with functions that would interact with each other and perform actions in the data using Active Record,
 
-* Ruby version
+The actions that allowed the database persistency cycle were mainly the CRUD (Create, read, Update and Destroy) actions.
 
-* System dependencies
+The RESTful application used these HTTP verbs (GET, POST, PATCH) to make requests from the servers, then routes users to a specific resource.
 
-* Configuration
+## Technology Used:
+Ruby on Rails
 
-* Database creation
+## Contact Information
+Authors Info Slack Profile - [Clement Njeru] Email - [njeruclement36@gmail.com], [clement.kemaro@student.moringaschool.com] LinkedIn Profile - [Clement Njeru]
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## LICENSE
+MIT License Copyright (c) 2022 Clement Njeru
